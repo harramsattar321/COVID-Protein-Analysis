@@ -1,1 +1,0 @@
-# COVID-Protein-Analysis
