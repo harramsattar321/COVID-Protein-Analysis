@@ -50,7 +50,6 @@ The primary research questions this project aims to address include:
 1. **Protein Type Classification**: Can we accurately classify coronavirus protein sequences into their functional types (S, N, M, E) based solely on amino acid frequency patterns?
 2. **Diagnostic Markers**: Which amino acids or frequency patterns serve as the most reliable markers for distinguishing between different coronavirus protein types?
 3. **Sequence Composition Analysis**: What are the characteristic amino acid distributions across different types of coronavirus proteins?
-4. **Model Transferability**: Can a classification model trained on known coronavirus protein sequences accurately identify novel or mutated sequences?
 
 ## 3. Methodology
 
