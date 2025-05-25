@@ -277,7 +277,7 @@ if __name__ == "__main__":
         start_page = int(input("Enter start page number (default 1): ") or 1)
         end_page = int(input("Enter end page number (default 5): ") or 5)
         max_retries = int(
-            input("Enter maximum retry attempts per item (default 3): ") or 3)
+            input("Enter maximum retry attempts per item (default 5): ") or 5)
 
         if start_page < 1:
             start_page = 1
